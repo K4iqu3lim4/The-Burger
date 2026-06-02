@@ -20,7 +20,8 @@ Desktop:
 
 Mobile:
 
-<img width="902" height="1600" alt="image" src="https://github.com/user-attachments/assets/642127f4-31b6-4ef1-9142-26ed1d6410ed" />
+<img width="391" height="730" alt="image" src="https://github.com/user-attachments/assets/3c1dd56d-8bb4-4d70-91e5-15e0c8d98d40" />
+
 
 
 ---
