@@ -14,11 +14,11 @@ Este projeto consiste em uma landing page responsiva desenvolvida com HTML, CSS 
 
 ## Prévia
 
-Desktop:
+### Desktop:
 
 <img width="1916" height="834" alt="image" src="https://github.com/user-attachments/assets/f39b733c-5657-408c-8b41-b15a9e327471" /> <br><br>
 
-Mobile:
+### Mobile:
 
 <img width="391" height="730" alt="image" src="https://github.com/user-attachments/assets/3c1dd56d-8bb4-4d70-91e5-15e0c8d98d40" />
 
