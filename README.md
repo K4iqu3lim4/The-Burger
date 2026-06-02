@@ -26,4 +26,4 @@ Mobile:
 
 ## Deploy
 
-🔗[Abrir projeto]()
+🔗[Abrir projeto](https://theburgerlim4.netlify.app/)
